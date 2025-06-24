@@ -1,6 +1,6 @@
  Data Science Internship Projects – Outrix
 
-This repository contains a collection of data science mini-projects completed as part of my internship at **Outrix**. Each project demonstrates the application of core data analysis, machine learning, and visualization techniques using Python. The goal was to gain hands-on experience with real-world data problems, understand workflows, and apply statistical reasoning.
+This repository contains a collection of data science mini-projects completed as part of my internship at **Outrix**. Each project demonstrates the application of core data analysis, machine learning, and visualization techniques using Python. The goal was to gain hands-on experience with real-world data problems, understand workflows, and apply statistical reasoning.For this task I have take StudentsPerformance dataset from kaggle.
 
  1. Student Performance Analysis
 
@@ -26,7 +26,8 @@ Tech Stack:
 
 2. Movie Recommendation System
 
-A content-based recommendation system that suggests movies similar to a user-provided title based on plot descriptions.
+A content-based recommendation system that suggests movies similar to a user-provided title based on plot descriptions.For this task I have take movies_metadata dataset from kaggle.
+
 
  Key Concepts:
 - TF-IDF vectorization of movie overviews
